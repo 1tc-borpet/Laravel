@@ -19,7 +19,7 @@ git --version
 
 ---
 
-## 🪄 1. Laravel projekt létrehozása
+##  1. Laravel projekt létrehozása
 
 A legegyszerűbb módja a telepítésnek a Composer használata.
 
@@ -36,7 +36,7 @@ laravel new projekt_neve
 
 ---
 
-## ⚙️ 2. Fejlesztői szerver indítása
+##  2. Fejlesztői szerver indítása
 
 Lépj be a projekt mappájába:
 ```bash
