@@ -121,7 +121,7 @@ Ha az adatbázis még nem létezik, hozd létre manuálisan (például phpMyAdmi
 
 ---
 
-## 8. Laravel Installer használata (opcionális)
+## 8. Laravel Installer használata 
 
 Ha gyakran hozol létre új Laravel projekteket, érdemes telepíteni a Laravel Installer-t:
 
