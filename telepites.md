@@ -25,16 +25,6 @@ git --version
 Töltsd le a PHP-t a hivatalos oldalról:  
 [https://windows.php.net/download/](https://windows.php.net/download/)
 
-### Linux / macOS
-Telepítés terminálból:
-```bash
-sudo apt install php php-cli php-mbstring unzip curl
-```
-vagy macOS esetén:
-```bash
-brew install php
-```
-
 Telepítés ellenőrzése:
 ```bash
 php -v
